@@ -44,7 +44,7 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Contato</h4>
             <ul className="space-y-2 text-muted-foreground">
               <li>contato@4data.com.br</li>
-              <li>+55 (11) 9999-9999</li>
+              <li>+55 (11) 98129-4949</li>
               <li>São Paulo, SP - Brasil</li>
             </ul>
           </div>
